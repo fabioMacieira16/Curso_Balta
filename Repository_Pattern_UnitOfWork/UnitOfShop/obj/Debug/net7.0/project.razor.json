@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\55859\\Documents\\GitHub\\Curso_Balta\\CQRS_Mediator\\Shop\\obj\\Debug\\net7.0\\project.razor.json",
-  "FilePath": "c:\\Users\\55859\\Documents\\GitHub\\Curso_Balta\\CQRS_Mediator\\Shop\\Shop.csproj",
+  "SerializedFilePath": "c:\\Users\\55859\\Documents\\GitHub\\Curso_Balta\\Repository_Pattern_UnitOfWork\\UnitOfShop\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\55859\\Documents\\GitHub\\Curso_Balta\\Repository_Pattern_UnitOfWork\\UnitOfShop\\UnitOfShop.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,7 +18642,7 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "Shop",
+  "RootNamespace": "UnitOfShop",
   "Documents": [],
   "SerializationFormat": "0.3"
 }
